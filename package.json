@@ -13,6 +13,6 @@
     "express-rate-limit": "^7.2.0",
     "helmet": "^7.1.0",
     "razorpay": "^2.9.2",
-    "supabase": "^1.22.4"
+    "@supabase/supabase-js": "^2.39.8"
   }
 }
